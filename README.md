@@ -8,3 +8,5 @@ To use it, run the compile_script (first make it executable if it's not already 
 You'll get a "cbfmatrix.txt" file which you can easily plot in any plotting program such as MATLAB.
 
 Sample output on CT scanner data taken from file "mydata.txt" and AIF vector taken from "aifvector.txt":
+
+![Perfusion map obtained on sample data and AIF](images/parallel_deconvolution.jpg?raw=true "Perfusion map")
